@@ -7,6 +7,7 @@ Every time we use the name of the function, the function is executed.
 """
 def sayHelloWorld():
     print("hello World!")
+    print("I am running a program")
 
 
 sayHelloWorld()
